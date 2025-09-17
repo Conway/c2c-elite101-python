@@ -9,7 +9,6 @@ To run this program, type the following into the terminal:
 ```shell
 python main.py
 ```
-
 ## Testplan
 
 1. Clone from GitHub.
